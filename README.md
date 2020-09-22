@@ -74,7 +74,7 @@ Installation
 
 Copy the full repo somewhere and run `usdvqwct/setup.exe`.
 
-Or, download MKLC from [here][3] (as of Sep 18 2020, the download is no longer avaliable) 
+Or, download MKLC from [here][3] (as of Sep 18 2020, the download is no longer available)
 and open `Dvorak-QWERTY-Ctrl.klc`,
 then go to **Project** > **Build DLL and Setup package**. Click "Yes"
 when it offers to open the output directory, and run `setup.exe`.
@@ -84,7 +84,7 @@ when it offers to open the output directory, and run `setup.exe`.
   **Control Panel** > **Languages**.
 - If on windows 10, go to 
   **Setting** > **Time & Language** > **Language** > **Prefered languages**, 
-  select **English** then click **Options**, under keyboard, you will see **United Stats-Davorak (QWERTY-Ctrl)**
+  select **English** then click **Options**, under keyboard, you will see **United States-Dvorak (QWERTY-Ctrl)**
 
 Then restart your computer to load the configuration
 
