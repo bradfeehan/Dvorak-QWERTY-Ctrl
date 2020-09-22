@@ -30,7 +30,7 @@ is identical to the standard Dvorak Simplified Keyboard. However, when
 pressing a keyboard shortcut which includes the Command key, the layout
 behaves as a QWERTY keyboard would. This means that all shortcuts
 involving the Command key are the same on this layout as on a QWERTY
-layout -- and on Mac OS X, most common keyboard shortcuts involve the 
+layout -- and on Mac OS X, most common keyboard shortcuts involve the
 Command key. However, Windows doesn't have any similar keyboard layout.
 
 Using the [Microsoft Keyboard Layout Creator][3], I created this custom
@@ -48,9 +48,9 @@ setting a different value for each key in the `Ctrl` shift state (which
 didn't work), I started with a QWERTY layout and changed all the key
 scan codes, using the following procedure:
 
-1. Start with any key, e.g. the bottom-left of the keyboard (which is 
+1. Start with any key, e.g. the bottom-left of the keyboard (which is
    `Z` on QWERTY)
-2. Find what key is in the corresponding physical location on the 
+2. Find what key is in the corresponding physical location on the
    Dvorak layout (semi-colon, for this key)
 3. Find where *that* key is on a QWERTY keyboard (to the left of the
    `Enter` key)
@@ -82,8 +82,8 @@ when it offers to open the output directory, and run `setup.exe`.
 - if you are on pre-windows 10 computer,
   This will add the "United States-Dvorak (QWERTY-Ctrl)" layout in
   **Control Panel** > **Languages**.
-- If on windows 10, go to 
-  **Setting** > **Time & Language** > **Language** > **Prefered languages**, 
+- If on windows 10, go to
+  **Setting** > **Time & Language** > **Language** > **Prefered languages**,
   select **English** then click **Options**, under keyboard, you will see **United States-Dvorak (QWERTY-Ctrl)**
 
 Then restart your computer to load the configuration
