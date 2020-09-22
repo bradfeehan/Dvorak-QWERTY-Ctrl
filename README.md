@@ -74,20 +74,20 @@ Installation
 
 Copy the full repo somewhere and run `usdvqwct/setup.exe`.
 
-Or, download MKLC from [here][3] (as of Sep 18 2020, the download is no longer available)
-and open `Dvorak-QWERTY-Ctrl.klc`,
-then go to **Project** > **Build DLL and Setup package**. Click "Yes"
-when it offers to open the output directory, and run `setup.exe`.
+Or, download MKLC from [here][3] (as of Sep 18 2020, the download is no
+longer avalable) and open `Dvorak-QWERTY-Ctrl.klc`, then go to
+**Project** > **Build DLL and Setup package**. Click "Yes" when it offers
+to open the output directory, and run `setup.exe`.
 
-- if you are on pre-windows 10 computer,
-  This will add the "United States-Dvorak (QWERTY-Ctrl)" layout in
-  **Control Panel** > **Languages**.
-- If on windows 10, go to
-  **Setting** > **Time & Language** > **Language** > **Prefered languages**,
-  select **English** then click **Options**, under keyboard, you will see **United States-Dvorak (QWERTY-Ctrl)**
+- if you are on pre-windows 10 computer, this will add the "United
+  States-Dvorak (QWERTY-Ctrl)" layout in **Control Panel** >
+  **Languages**.
+- If on windows 10, go to **Setting** > **Time & Language** >
+  **Language** > **Prefered languages**, select **English** then click
+  **Options**, under keyboard, you will see
+  **United States-Dvorak (QWERTY-Ctrl)**
 
-Then restart your computer to load the configuration
-
+Then restart your computer to load the configuration.
 
 [1]: <http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard>
 [2]: <http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard#Mac_OS>
