@@ -74,8 +74,7 @@ Installation
 
 Copy the full repo somewhere and run `usdvqwct/setup.exe`.
 
-Or, download MKLC from [here][3] (as of Sep 18 2020, the download is no
-longer avalable) and open `Dvorak-QWERTY-Ctrl.klc`, then go to
+Or, download MSKLC.exe from [here][3] and open `Dvorak-QWERTY-Ctrl.klc`, then go to
 **Project** > **Build DLL and Setup package**. Click "Yes" when it offers
 to open the output directory, and run `setup.exe`.
 
@@ -91,4 +90,4 @@ Then restart your computer to load the configuration.
 
 [1]: <http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard>
 [2]: <http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard#Mac_OS>
-[3]: <http://msdn.microsoft.com/en-au/goglobal/bb964665.aspx>
+[3]: <https://www.microsoft.com/en-us/download/details.aspx?id=102134>
